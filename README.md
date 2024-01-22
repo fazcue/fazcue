@@ -16,11 +16,11 @@ I'm from Argentina 🇦🇷
 
 ## How it is going...
 
-- 🔭 - currently working on a [MineSweeper Game](https://github.com/fazcue/minesweeperGame) (React)
-- 🌱 - currently learning Serenity (Globant) 
-- 👯 - looking to collaborate on projects as a QA Automation tester 
-- 💬 - you can ask me about anything ;) 
-- ⚡ - Fun fact: I'm a cat person 😼 
+- 🔭 currently working on a [MineSweeper Game](https://github.com/fazcue/minesweeperGame) (React)
+- 🌱 currently learning Serenity (Globant) 
+- 👯 looking to collaborate on projects as a QA Automation tester 
+- 💬 you can ask me about anything ;) 
+- ⚡ Fun fact: I'm a cat person 😼 
 
 
 ## ... how I would like it to end:
@@ -37,7 +37,6 @@ const you = {
         // hiring logic
     }
 }
-
 
 if (you.hire(me)) {
     me.workingAs = 'employee'

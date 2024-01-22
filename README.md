@@ -19,11 +19,10 @@ I'm from Argentina 🇦🇷
 - 🔭 currently working on a [MineSweeper Game](https://github.com/fazcue/minesweeperGame) (React)
 - 🌱 currently learning Serenity (Globant) 
 - 👯 looking to collaborate on projects as a QA Automation tester 
-- 💬 you can ask me about anything ;) 
 - ⚡ Fun fact: I'm a cat person 😼 
 
 
-## ... how I would like it to end:
+## ...how I would like it to end:
 ```javascript
 const me = { 
     name: 'Facundo Azcue',

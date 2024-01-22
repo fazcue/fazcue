@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-![](https://github.com/fazcue/fazcue/blob/main/welcome-banner.png?raw=true)
+![](https://github.com/fazcue/fazcue/blob/main/banner.png?raw=true)
 
 I'm a **Web Developer** that loves React & TypeScript.
 

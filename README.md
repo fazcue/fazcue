@@ -6,8 +6,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-![](https://github.com/fazcue/fazcue/blob/main/banner.png?raw=true)
-
 I'm a **Web Developer** that loves React & TypeScript.
 
 I'm currently a _Globant scholarship student_ to become a **QA Automation tester** (Selenium, Serenity, Cypress).
@@ -17,9 +15,9 @@ I'm from Argentina 🇦🇷
 ## How it is going...
 
 - 🔭 currently working on a [MineSweeper Game](https://github.com/fazcue/minesweeperGame) (React)
-- 🌱 currently learning Serenity (Globant) 
-- 👯 looking to collaborate on projects as a QA Automation tester 
-- ⚡ Fun fact: I'm a cat person 😼 
+- 🌱 currently learning Serenity (Globant)
+- 👯 looking to collaborate on projects as a QA Automation tester
+- ⚡ Fun fact: I'm a cat person 😼
 
 
 ## ...how I would like it to end:

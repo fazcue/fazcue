@@ -14,32 +14,9 @@ I'm from Argentina 🇦🇷
 
 ## How it is going...
 
-- 🔭 currently working on a [MineSweeper Game](https://github.com/fazcue/minesweeperGame) (React)
-- 🌱 currently learning Serenity (Globant)
-- 👯 looking to collaborate on projects as a QA Automation tester
+- 🔭 currently working on final SQL project (Harvard SQL course)
+- 🌱 currently learning SQL (Harvard course)
 - ⚡ Fun fact: I'm a cat person 😼
-
-
-## ...how I would like it to end:
-```javascript
-const me = { 
-    name: 'Facundo Azcue',
-    workingAs: 'freelancer',
-    status: 🫠
-}
-
-const you = { 
-    are: 'an awesome person',
-    hire: (person) => {
-        // hiring logic
-    }
-}
-
-if (you.hire(me)) {
-    me.workingAs = 'employee'
-    me.status = 🤗
-}
-```
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
